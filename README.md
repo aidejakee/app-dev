@@ -1,4 +1,4 @@
-**MY FAVORITE SERIES/MOVIE**
+# **MY FAVORITE SERIES/MOVIE**
 
 1. Stranger Things
 2. Suits
