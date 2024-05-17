@@ -1,3 +1,6 @@
 # **MY FAVORITE SERIES**
+- - -
+![Rick And Morty]()
+- - -
 
-![Rick And Morty](randm.jpg)
+This 
