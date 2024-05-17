@@ -1,3 +1,3 @@
 # **MY FAVORITE SERIES**
 
-![alt text](randm.jpg)
+!["C:\Users\Jake\Downloads\randm.jpg"](randm.jpg)
